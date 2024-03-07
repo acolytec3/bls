@@ -79,7 +79,7 @@
   },
   "dependencies": {
     "@chainsafe/bls-keygen": "^0.4.0",
-    "bls-eth-wasm": "^1.1.1"
+    "bls-eth-wasm": "^1.2.1"
   },
   "devDependencies": {
     "@chainsafe/blst": "^0.2.4",

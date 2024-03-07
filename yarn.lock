@@ -1058,10 +1058,10 @@ bindings@^1.3.0:
   dependencies:
     file-uri-to-path "1.0.0"
 
-bls-eth-wasm@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/bls-eth-wasm/-/bls-eth-wasm-1.1.1.tgz#d0174a6411dad73f2717a4dbc0b0d7184be93b6d"
-  integrity sha512-yaoOHCgjICZc2qTpYCvIkJ6L4N2MXBNmdhIpTZGmKZOUc3mmU941EV95qMK02apyYRSKuCydPuCN3fK4o24C1g==
+bls-eth-wasm@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/bls-eth-wasm/-/bls-eth-wasm-1.2.1.tgz#85f165c17d8f16000f46695b56f72bf6af386825"
+  integrity sha512-hl4oBzZQmPGNb9Wt5GI+oEuHM6twGc5HzXCzNZMVLMMg+dltsOuvuioRyLolpDFbncC0BJbGPzP1ZTysUGkksw==
 
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.11.9:
   version "4.12.0"
